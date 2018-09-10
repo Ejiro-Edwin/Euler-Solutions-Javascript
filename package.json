@@ -1,0 +1,25 @@
+{
+  "name": "project-euler-solutions-javascript",
+  "version": "1.0.0",
+  "description": "Solutions for Project Euler Problems in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:Ejiro-Edwin/Project-Euler-Solutions-Javascript"
+  },
+  "keywords": [
+    "Project",
+    "Euler",
+    "Solutions",
+    "in",
+    "Javascript"
+  ],
+  "author": "Obamrevwo Ejiro Edwin Oladimeji",
+  "Email": "EjiroEdwin@gmail.com",
+  "mobile": "+2348094110895",
+  "LinkedIn": "",
+  "license": "MIT"
+}
